@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **C/C++, Python, Verilog, & Linux.**
+- 🌱 I’m currently learning **C/C++, Python, Verilog, & Bash.**
 
 
 <h3 align="left">Languages and Tools:</h3>
