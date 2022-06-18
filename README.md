@@ -1,10 +1,10 @@
-<h2 align="center">Hi 👋, I'm Dan
-  
-A Computer Engineer</h2>
-
 <div align="center">
   <img src="https://github.com/Higgy710/Higgy710/blob/main/assets/computer.gif" width="600" height="300"/>
 </div>
+
+<h2 align="center">Hi 👋, I'm Dan
+  
+A Computer Engineer</h2>
 
 
 <p align="center"> 🌱 I’m currently learning:
