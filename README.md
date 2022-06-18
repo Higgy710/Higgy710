@@ -16,3 +16,7 @@ Embedded C/C++, Python, & Bash.</p>
 ### Advent of Code:
 
 ![](https://img.shields.io/badge/day%20📅-25-blue) ![](https://img.shields.io/badge/stars%20⭐-24-yellow) ![](https://img.shields.io/badge/days%20completed-12-red)
+
+<a href="https://github.com/higgy710/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=higgy710&theme=github_dark&show_icons=true&line_height=27&count_private=true" />
+</a>
