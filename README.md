@@ -15,7 +15,7 @@ Embedded C/C++, Python, & Bash.</p>
 
 
 <a href="https://github.com/higgy710/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=higgy710&theme=github_dark&show_icons=true&line_height=20&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=higgy710&theme=github_dark&show_icons=true&line_height=20&count_private=true" />
 </a>
 <a href="https://github.com/higgy710/">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higgy710&layout=compact&theme=github_dark" />
