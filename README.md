@@ -1,4 +1,6 @@
-[![DanHigginbothamHeader](https://github.com/Higgy710/Higgy710/blob/main/assets/computer.gif)](https://linkedin.com/dhigginbotham7)
+<div align="center">
+  <img src="https://github.com/Higgy710/Higgy710/blob/main/assets/computer.gif" width="600"/>
+</div>
 
 <h2 align="center">Hi 👋, I'm Dan
   
