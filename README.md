@@ -2,6 +2,8 @@
   <img src="https://github.com/Higgy710/Higgy710/blob/main/assets/computer.gif" width="600"/>
 </div>
 
+![Higgy710Header](https://raw.githubusercontent.com/Higgy710/Higgy710/assets/computer.gif)
+
 <h1 align="center">Hi 👋, I'm Dan
   
 A Computer Engineer</h1>
