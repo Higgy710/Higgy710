@@ -38,7 +38,7 @@ Currently working with:
 </a>
 </div>
 
-<h3 align=center>Advent of Code:
+<h3 align=center>Advent of Code 2022:
   <p>
     
 ![day](https://img.shields.io/badge/day%20📅-1-blue)
