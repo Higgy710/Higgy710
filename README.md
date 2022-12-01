@@ -41,8 +41,8 @@ Currently working with:
 <h3 align=center>Advent of Code:
   <p>
     
-![day](https://img.shields.io/badge/day%20📅-22-blue)
-![stars](https://img.shields.io/badge/stars%20⭐-34-yellow)
-![completed](https://img.shields.io/badge/days%20completed-17-red)
+![day](https://img.shields.io/badge/day%20📅-1-blue)
+![stars](https://img.shields.io/badge/stars%20⭐-2-yellow)
+![completed](https://img.shields.io/badge/days%20completed-1-red)
   </p>
 </h3>
