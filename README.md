@@ -37,3 +37,12 @@ Currently working with:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=higgy710&theme=react&show_icons=true&line_height=20&count_private=true" />
 </a>
 </div>
+
+<h3 align=center>Advent of Code:
+  <p>
+    
+![day](https://img.shields.io/badge/day%20📅-22-blue)
+![stars](https://img.shields.io/badge/stars%20⭐-34-yellow)
+![completed](https://img.shields.io/badge/days%20completed-17-red)
+  </p>
+</h3>
