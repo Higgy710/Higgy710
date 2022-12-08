@@ -34,7 +34,7 @@ Currently working with:
 
 <div align="center">
 <a href="https://github.com/higgy710/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=higgy710&theme=react&show_icons=true&line_height=20&count_private=true" />
+  <img align="center" src="https://github-readme-stats-twy5.vercel.app/api?username=higgy710&theme=react&show_icons=true&line_height=20&count_private=true" />
 </a>
 </div>
 
