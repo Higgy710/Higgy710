@@ -42,7 +42,7 @@ Currently working with:
   <p>
     
 ![day](https://img.shields.io/badge/day%20📅-8-blue)
-![stars](https://img.shields.io/badge/stars%20⭐-14-yellow)
-![completed](https://img.shields.io/badge/days%20completed-7-red)
+![stars](https://img.shields.io/badge/stars%20⭐-16-yellow)
+![completed](https://img.shields.io/badge/days%20completed-8-red)
   </p>
 </h3>
