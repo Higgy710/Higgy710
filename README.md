@@ -41,8 +41,8 @@ Currently working with:
 <h3 align=center>Advent of Code 2022:
   <p>
     
-![day](https://img.shields.io/badge/day%20📅-7-blue)
-![stars](https://img.shields.io/badge/stars%20⭐-12-yellow)
-![completed](https://img.shields.io/badge/days%20completed-6-red)
+![day](https://img.shields.io/badge/day%20📅-8-blue)
+![stars](https://img.shields.io/badge/stars%20⭐-14-yellow)
+![completed](https://img.shields.io/badge/days%20completed-7-red)
   </p>
 </h3>
